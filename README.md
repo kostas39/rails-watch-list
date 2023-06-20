@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Watch List is an app build with Ruby on Rails that you can search your favourite movies and create Lists with your selections. 
+<img width="751" alt="watchlist3" src="https://github.com/kostas39/rails-watch-list/assets/113783564/ab3f1ab8-15c6-4b54-8a03-fb85027eeccd">
